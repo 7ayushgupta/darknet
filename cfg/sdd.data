@@ -1,0 +1,5 @@
+classes = 6
+train = /media/ayush/DATA1/Data/stanford_campus_dataset/sdd/YOLO/train.txt
+valid = /media/ayush/DATA1/Data/stanford_campus_dataset/sdd/YOLO/test.txt
+names = obj.names
+backup = sdd/
