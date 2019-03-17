@@ -2,4 +2,4 @@ classes = 6
 train = /content/darknet/cfg/Aerial/train.txt
 valid = /content/darknet/cfg/Aerial/test.txt
 names = obj.names
-backup = /content/drive/My Drive/darknet/cfg/Aerial/saved_weights
+backup = /content/darknet/cfg/Aerial/saved_weights
