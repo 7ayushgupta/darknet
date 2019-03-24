@@ -1,5 +1,0 @@
-classes = 6
-train = /content/darknet/cfg/Aerial/train.txt
-valid = /content/darknet/cfg/Aerial/test.txt
-names = obj.names
-backup = /content/darknet/cfg/Aerial/saved_weights
