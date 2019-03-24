@@ -1,0 +1,5 @@
+classes = 6
+train = /content/darknet/darknet-alex/cfg/Aerial/train.txt
+valid = /content/darknet/darknet-alex/cfg/Aerial/test.txt
+names = /home/ayush/Projects/darknet/cfg/Aerial/sdd.names
+backup = /content/darknet/darknet-alex/cfg/Aerial/saved_weights
