@@ -1,0 +1,5 @@
+classes = 6
+train = /home/ayush/Projects/darknet/darknet-alex/Aerial/train_offline.txt
+valid = /home/ayush/Projects/darknet/darknet-alex/Aerial/test_offline.txt
+names = /home/ayush/Projects/darknet/darknet-alex/Aerial/sdd.names
+backup = /home/ayush/Projects/darknet/darknet-alex/Aerial/saved_weights
